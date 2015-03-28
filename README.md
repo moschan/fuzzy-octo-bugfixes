@@ -1,2 +1,2 @@
-# fuzzy-octo-bugfixes
+# go-sample
 go-sample
